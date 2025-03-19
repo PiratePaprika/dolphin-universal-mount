@@ -5,7 +5,7 @@
     It creates a mount point in `/tmp` using the name of the file being mounted + first 8 characters of file path's `sha256` hash.
 - Unmount previously mounted file using "Unmount file".
 
-**Supported languages:** Dutch, English, Russian  
+**Supported languages:** Dutch, English, Norwegian (bokmål, nynorsk), Russian  
 <details><summary>Adding support for your language is very simple:</summary>
 
 Just add `Name[xx]=…` translated entries for it in `.desktop` file and create a pull request :wink:  
